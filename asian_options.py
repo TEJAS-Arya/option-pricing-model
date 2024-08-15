@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul  3 17:18:19 2020
-
-@author: Justin Yu, M.S. Financial Engineering, Stevens Institute of Technology
 
 Monte Carlo pricing algorithms for Asian-style options
 """
